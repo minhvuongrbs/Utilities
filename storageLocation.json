@@ -1,0 +1,36 @@
+{
+  "database": "customer_master",
+  "table": "storageLocation",
+  "action": "insert",
+  "data": [
+    {
+      "id": "a0e86290-c4aa-11ea-a49a-952bc05f9e2a",
+      "status": "enabled",
+      "deleted": false,
+      "storageId": "14aee190-abbf-11ea-9edb-c98df257c594",
+      "followMainAddress": true,
+      "regionId": "90be0760-9a77-11ea-85f8-4989b23e726f",
+      "telId": "01126cd0-9a74-11ea-85f8-4989b23e726f",
+      "telephone": "76270313",
+      "faxId": "01126cd0-9a74-11ea-85f8-4989b23e726f",
+      "contactId": null,
+      "shipToAddress1": "NO.327",
+      "shipToAddress2": "JALAN SEGAMBUT",
+      "postcodeId": "54157e28-ac73-11ea-997e-42010a15000a",
+      "cityId": "973d17e9-a197-11ea-960c-42010a940fef",
+      "stateId": "765c1d10-9a79-11ea-85f8-4989b23e726f",
+      "countryId": "189971c0-9a72-11ea-85f8-4989b23e726f",
+      "zone": null,
+      "fax": null,
+      "primaryContact": null,
+      "area": null,
+      "shipToAddress3": null,
+      "rfIdPoleNo": null,
+      "branchId": "2a71da50-bc0e-11ea-8e52-2f511dab7049",
+      "createdBy": "42b7a620-bc32-11ea-9bd1-7f84c8c32f48",
+      "updatedBy": "42b7a620-bc32-11ea-9bd1-7f84c8c32f48",
+      "updatedAt": "2020-07-13T01:46:11.130Z",
+      "createdAt": "2020-07-13T01:46:11.130Z"
+    }
+  ]
+}
